@@ -39,9 +39,6 @@
 	],
 	"TargetPlatforms": [
 		"Android",
-		"IOS",
-		"Mac",
-		"Windows",
-		"Linux"
+		"Windows"
 	]
 }
