@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "lendahandEditor Editor Win64 Development (lendahand)",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\.vscode\\compileCommands_lendahand.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

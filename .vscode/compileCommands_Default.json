@@ -1,0 +1,42 @@
+[
+	{
+		"file": "C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\Source\\lendahand\\MyActor.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\.vscode\\compileCommands_Default\\lendahand.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\Source\\lendahand\\MyActor.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\.vscode\\compileCommands_Default\\lendahand.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\Source\\lendahand\\lendahand.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\.vscode\\compileCommands_Default\\lendahand.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\Source\\lendahand\\lendahand.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\.vscode\\compileCommands_Default\\lendahand.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\Source\\lendahand\\lendahand.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\.vscode\\compileCommands_Default\\lendahand.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source"
+	}
+]
