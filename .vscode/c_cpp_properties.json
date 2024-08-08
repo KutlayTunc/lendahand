@@ -6,7 +6,12 @@
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\.vscode\\compileCommands_lendahand.json"
+            "compileCommands": "C:\\Users\\tracy\\Documents\\Unreal Projects\\lendahand\\.vscode\\compileCommands_lendahand.json",
+            "includePath": [
+                "${workspaceFolder}\\Intermediate\\**",
+                // "${workspaceFolder}\\Plugins\\**",
+                "${workspaceFolder}\\Source\\**"
+            ]
         },
         {
             "name": "Win32",
