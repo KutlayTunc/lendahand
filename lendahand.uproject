@@ -5,16 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "OpenXR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"Android"
-			]
+			"Name": "GPULightmass",
+			"Enabled": true
 		},
 		{
-			"Name": "OpenXREyeTracker",
+			"Name": "OpenXR",
 			"Enabled": true,
 			"SupportedTargetPlatforms": [
 				"Win64",
@@ -32,8 +27,13 @@
 			]
 		},
 		{
-			"Name": "GPULightmass",
-			"Enabled": true
+			"Name": "OpenXREyeTracker",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android"
+			]
 		}
 	],
 	"TargetPlatforms": [
