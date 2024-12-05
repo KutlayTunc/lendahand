@@ -34,6 +34,10 @@
 				"Linux",
 				"Android"
 			]
+		},
+		{
+			"Name": "PhysicsControl",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
